@@ -2,7 +2,11 @@
 
 I am Yoann, a French music producer and web developer living in Bangkok, Thailand.
 
-### 🚀 Skills
+### 🚀 News
+
+I'm currently launching [Jarvis](https://www.jarvis-lyrics.com), a OpenAI GPT-3-powered app that generates lyrics, and helps songwriters overcome writer's block!
+
+### 🤹 Skills
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>

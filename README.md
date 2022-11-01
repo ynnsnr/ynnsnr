@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Yoann, a French music producer and web developer living in Bangkok, Thailand.
+I am Yoann, a French [web developer](https://yoann.saunier.me) and [music composer](https://www.youtube.com/c/YoannSaunierMusic) living in Bangkok, Thailand.
 
-### 🚀 News
+### 🚀 Projects
 
-I'm currently launching [Jarvis](https://www.jarvis-lyrics.com), a OpenAI GPT-3-powered app that generates lyrics, and helps songwriters overcome writer's block!
+Founded [Jarvis](https://www.jarvis-lyrics.com), an OpenAI GPT-3-powered app that generates lyrics and helps songwriters overcome writer's block.
 
 ### 🤹 Skills
 

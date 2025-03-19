@@ -4,8 +4,8 @@ I am Yoann, a French [web developer](https://yoann.saunier.me) and [music compos
 
 ### 🚀 Projects
 
-* Founded [Jarvis](https://www.jarvis-lyrics.com), an AI-powered app that generates lyrics ideas to help songwriters overcome writer's block.
-* Launched [BeatHub](https://www.beathub.co), a web app to help music producers dig sample packs and beats more efficiently by providing a random and continuous listening experience.
+* [BeatHub](https://www.beathub.co), a web app to help music producers dig sample packs and beats more efficiently by providing a random and continuous listening experience.
+* [Jarvis](https://www.jarvis-lyrics.com), an AI-powered app that generates lyrics ideas to help songwriters overcome writer's block.
 
 ### 🤹 Skills
 
